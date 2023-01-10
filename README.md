@@ -9,7 +9,7 @@ Concept de restauration eco-responsable
 ---
 ## Objectifs
 - MVP présentant le concept de la marque
-  - e-boutique évolutive avec backoffice gérant par l'administrateur (client)
+  - e-boutique évolutive avec backoffice
 
 ## Challenges
 - Implémenter une méthode de paiement avec [l'API SumUp](https://developer.sumup.com/docs/api/sum-up-rest-api/)
@@ -20,3 +20,4 @@ Concept de restauration eco-responsable
 
 
 Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+© Concept élaboré par Mr. NANGUY Boghuy
